@@ -3,7 +3,7 @@
 ### Hello! We are LukeHjo Ltd.
 
 <div align="center">
-  <img src="reallukehjo.png">
+  <img src="asset.png">
 </div>
 
 ### About Us
