@@ -15,16 +15,6 @@ We work on various projects all the time such as [github.com/luke-beep/guide-to-
 [<img align="left" alt="Our's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lukehjo.rocks/)
 
 
-### Languages 
-
----
-I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
-
-### Github Statistics
-
----
-![LukeHjo's Github stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=tokyonight)
-![LukeHjo's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&theme=tokyonight)
 
 
 ### Contact Information
