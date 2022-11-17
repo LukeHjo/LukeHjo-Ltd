@@ -12,7 +12,6 @@
 Hey! We are LukeHjo Ltd. We are a team of software engineers from Sweden. 
 We work on various projects all the time such as [github.com/luke-beep/guide-to-optimizing-windows](https://github.com/luke-beep/guide-to-optimizing-windows). Or [https://lukehjo.rocks](https://lukehjo.rocks).
 
-[<img align="left" alt="Our's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lukehjo.rocks/)
 
 
 
